@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=DDA0DD&height=200&section=header&text=jihye_github%20👩🏼‍💻&fontSize=90)
 
+![genius-jihye-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=genius-jihye-park&show_icons=true&theme=outrun)
+
 <h3 align ="center"> 🎉HELLO WELCOME TO MY GITHUB!🎉 </h3>
 <div align = "center">     
 
@@ -32,5 +34,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">📧My Contact📧</h3>
 <a href="mailto:sconenomad@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
-
-
+<a href="https://www.instagram.com/somethingbetweenyouandme/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-e31771?style=flat&logo=Instagram&link=https://www.instagram.com/somethingbetweenyouandme/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@genius_jihyepark">
+    <img 
+        src="http://img.shields.io/badge/-Velog-81c2aa?style=flat&logo=Vector Logo Zone&link=https://velog.io/@genius_jihyepark"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
